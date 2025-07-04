@@ -1,0 +1,3 @@
+Jeżeli jesteś zainteresowany historią lokalną Poznania i ciekawostkami, które można wyszperać w starych gazetach, koniecznie zajrzyj na https:/gazety.poznan.pl !
+
+Aby rozwijać projekt potrzebujemy słowników nazw ulic, które istniały w Poznaniu w kolejnych dekadach. Na podstawie planów Poznania, które są dostępne Wirtualnym Muzeum Historii Poznania ([cyryl.poznan.pl|https://cyryl.poznan.pl/kolekcja/plany-poznania-1945-1993-archiwum-panstwowe-w-poznaniu/) stworzyłem taki plik dla lat 30tych. W katalogu streets_dictionary znajdują się katalogi odpowiadające kolejnym dekadom - jeżeli chcesz pomóc w tworzeniu serwisu gazety.poznan.pl to zachęcamy do pomocy przy tworzeniu słowników dla kolejnych dekad.
